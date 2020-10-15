@@ -71,3 +71,4 @@ The document should be deployed on GitHub Pages (https://pages.github.com/), it 
    Answer: The main reason, in the majority of cases, is that you haven’t made a Pull Request from ‘gh-pages’ to ‘master’. The other reason - there is no task title ("Markdown & Git") in your Pull Request. To look at your PR you can here:  https://github.com/%7Your github account}/rsschool-cv/pulls?utf8=%E2%9C%93&q=is%3Apr
 
 If, after all, you still think that your score is incorrect(everybody makes mistakes, even robots), we ask you to give your arguments with as much details as possible in comments to this issue https://github.com/rolling-scopes-school/support/issues/1
+
